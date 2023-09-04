@@ -19,6 +19,8 @@ Some of the vulnerabilities covered in this Application.
     Clear text data in transit
     Client side protection bypasses using Reverse Engineering
 
+    
+
 Requires .NET version 4.5
 
 Usage:
