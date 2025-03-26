@@ -66,3 +66,5 @@ Usage:
 
 3. Configure the client application to communicate with SQL Server and FTP Server - Instructions shown here https://youtu.be/IBdk2uOessc
 4. Explore and exploit
+
+Random update: 2729
